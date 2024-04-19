@@ -1,0 +1,6 @@
+input_path,file_format,file_name
+Credentials/s3_creds.json,aws_s3,biodate
+source_files/mtcars.json,json,mtcars
+source_files/mock_data.csv,csv,mock_data
+Data_files/,csv,
+
