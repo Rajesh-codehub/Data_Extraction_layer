@@ -1,4 +1,2 @@
-credentials/mysql.json
-credentials/postgres.json
 Data_files/vikings.csv
 main/test.py
