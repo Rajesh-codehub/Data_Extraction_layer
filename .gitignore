@@ -1,5 +1,4 @@
 credentials/mysql.json
 credentials/postgres.json
-Credentials/s3_creds.json
-Data_files/*
+Data_files/vikings.csv
 main/test.py
