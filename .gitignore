@@ -1,4 +1,5 @@
 credentials/mysql.json
 credentials/postgres.json
 Credentials/s3_creds.json
+Data_files/*
 main/test.py
